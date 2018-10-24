@@ -15,3 +15,15 @@ Unisphere aims to gather various information related to universities all around 
 ### Find About What is Thought About Your University 
 
 ### Find Universities Suitable For Your Needs
+
+## About Us
+
+## Documentation
+This project is implemented for the Senior Design Project course of Bilkent University
+The documentations related to the course can be found below:
+    - Project Specifications Report: https://unisphere-bilkent.github.io/docs/project-specifications-report.pdf
+    - Analysis Report: TBA
+    - High-Level Design Report: TBA
+    - Low-Level Design Report: TBA
+    - Final Report: TBA
+
