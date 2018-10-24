@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Unisphere
 
-You can use the [editor on GitHub](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Easiest Way to Get Informed About A University
+Unisphere aims to gather various information related to universities all around the world. In this web application, undergraduate, master’s and PhD. programs for different departments will be available. Users will easily access all universities around the world and they will be able to compare the universities side by side on a user-friendly interface. Besides the educational aspects, by using Google Street view, users can travel inside the campus and they will be able to see the close by facilities such as hospitals, shopping malls, airport, subway. They can learn how to go nearby places by the color-coded fastest routes displayed on an interactive map.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Visually Satisfiying UI
 
-### Markdown
+### Educational Aspects are Important for a University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Social Aspects of a University are Important too...
+    - Find events near a university
+    - Find attractions near a university
+    - Find out about the weather conditions
 
-```markdown
-Syntax highlighted code block
+### Find About What is Thought About Your University 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Find Universities Suitable For Your Needs
