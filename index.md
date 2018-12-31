@@ -23,7 +23,7 @@ This project is implemented for the Senior Design Project course of Bilkent Univ
 
 * Project Specifications Report can be found [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/project-specifications-report.pdf)
 * Analysis Report can be found [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/analysis-report.pdf)
-* High-Level Design Report: TBA
+* High-Level Design Report: [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/high-level-design-report.pdf)
 * Low-Level Design Report: TBA
 * Final Report: TBA
 
