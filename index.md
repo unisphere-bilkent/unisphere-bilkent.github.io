@@ -20,11 +20,11 @@ Don't worry if you can't decide which university to apply for. With Unisphere, f
 
 ## About Us
 Meet our developer team:
-    İrem Ural 
-    Doruk Çakmakçı 
-    Umut Berk Bilgiç 
-    Hakan Sarp Aydemir 
-    Arkın Yılmaz
+    - İrem Ural 
+    - Doruk Çakmakçı 
+    - Umut Berk Bilgiç 
+    - Hakan Sarp Aydemir 
+    - Arkın Yılmaz
 
 @BilkentUniversity
 
