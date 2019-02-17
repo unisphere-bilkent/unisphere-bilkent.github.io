@@ -18,13 +18,12 @@ Using state-of-the-art machine learning and sentiment analysis techniques, Unisp
 ### Find & Compare Universities Suitable To Your Needs
 Don't worry if you can't decide which university to apply for. With Unisphere, finding and comparing universities personalized to your preferences are easier than ever. 
 
-## About Us
-Meet our developer team:
-    - İrem Ural 
-    - Doruk Çakmakçı 
-    - Umut Berk Bilgiç 
-    - Hakan Sarp Aydemir 
-    - Arkın Yılmaz
+## Meet our developer team
+- İrem Ural 
+- Doruk Çakmakçı 
+- Umut Berk Bilgiç 
+- Hakan Sarp Aydemir 
+- Arkın Yılmaz
 
 @BilkentUniversity
 
