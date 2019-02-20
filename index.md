@@ -25,8 +25,6 @@ Don't worry if you can't decide which university to apply for. With Unisphere, f
 - Hakan Sarp Aydemir 
 - Arkın Yılmaz
 
-@BilkentUniversity
-
 ## Documentation
 This project is implemented for the Senior Design Project course of Bilkent University. The documentations related to the course can be found below :
 
@@ -35,5 +33,7 @@ This project is implemented for the Senior Design Project course of Bilkent Univ
 * High-Level Design Report can be found [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/high-level-design-report.pdf)
 * Low-Level Design Report can be found [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/low-level-design-report.pdf).
 * Final Report: TBA
+
+##@BilkentUniversity
 
 
