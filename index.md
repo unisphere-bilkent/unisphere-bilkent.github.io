@@ -34,6 +34,6 @@ This project is implemented for the Senior Design Project course of Bilkent Univ
 * Low-Level Design Report can be found [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/low-level-design-report.pdf).
 * Final Report: TBA
 
-##\@BilkentUniversity
+## @BilkentUniversity
 
 
